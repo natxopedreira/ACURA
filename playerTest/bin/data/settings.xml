@@ -1,0 +1,44 @@
+<settings>
+	<settings_velocidad>
+		<velocidad_raw>102</velocidad_raw>
+		<velocidad_minima>0</velocidad_minima>
+		<velocidad_maxima>255</velocidad_maxima>
+		<velocidad>163</velocidad>
+	<simulacion>1</simulacion>
+	<minima>0</minima>
+		<maxima>255</maxima>
+	</settings_velocidad>
+<settings/>
+<tween>
+		<aplicar_tween>1</aplicar_tween>
+	<quad_tween>1</quad_tween>
+		<cubic_tween>0</cubic_tween>
+		<sine_tween>0</sine_tween>
+		<quart_tween>0</quart_tween>
+	</tween>
+<drawSpeed>1</drawSpeed>
+<velocidad>
+		<simulacion>1</simulacion>
+		<velocidad_raw>62</velocidad_raw>
+		<minima>0</minima>
+		<maxima>255</maxima>
+		<velocidad>108</velocidad>
+	</velocidad>
+<ajustes_pista>
+		<drawSpeed>1</drawSpeed>
+		<settings_velocidad>
+			<simulacion>1</simulacion>
+			<velocidad_raw>133</velocidad_raw>
+			<minima>0</minima>
+			<maxima>255</maxima>
+			<velocidad>196</velocidad>
+		</settings_velocidad>
+		<tween>
+			<aplicar_tween>1</aplicar_tween>
+			<quad_tween>1</quad_tween>
+			<cubic_tween>0</cubic_tween>
+			<sine_tween>0</sine_tween>
+			<quart_tween>0</quart_tween>
+		</tween>
+	</ajustes_pista>
+</settings>

@@ -1,0 +1,32 @@
+<group>
+	<group/>
+<settings_leap>
+		<mapRangeInMax>290</mapRangeInMax>
+		<mapRangeInMin>101</mapRangeInMin>
+		<mapRangeOutMax>255</mapRangeOutMax>
+		<mapRangeOutMin>0</mapRangeOutMin>
+	</settings_leap>
+<ajustes_pista>
+		<drawSpeed>1</drawSpeed>
+		<settings_velocidad>
+			<simulacion>1</simulacion>
+			<velocidad_raw>0</velocidad_raw>
+			<minima>0</minima>
+			<maxima>255</maxima>
+			<velocidad>0</velocidad>
+		</settings_velocidad>
+		<tween>
+			<aplicar_tween>1</aplicar_tween>
+			<quad_tween>0</quad_tween>
+			<cubic_tween>1</cubic_tween>
+			<sine_tween>0</sine_tween>
+			<quart_tween>0</quart_tween>
+		</tween>
+		<settings_leap>
+			<mapRangeInMin>125</mapRangeInMin>
+			<mapRangeInMax>350</mapRangeInMax>
+			<mapRangeOutMin>0</mapRangeOutMin>
+			<mapRangeOutMax>255</mapRangeOutMax>
+		</settings_leap>
+	</ajustes_pista>
+</group>
